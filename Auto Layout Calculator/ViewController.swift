@@ -9,7 +9,9 @@
 import UIKit
 
 class ViewController: UIViewController {
-
+    
+//    tamahin fungsi biar bisa dipake, gak cuma ui doang
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.

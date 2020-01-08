@@ -47,7 +47,6 @@
                                                     <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                 </state>
                                                 <connections>
-                                                    <action selector="asd:" destination="BYZ-38-t0r" eventType="touchUpInside" id="EWJ-N8-CHv"/>
                                                     <action selector="numberPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="CVL-aI-fxB"/>
                                                 </connections>
                                             </button>
@@ -59,7 +58,6 @@
                                                     <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                 </state>
                                                 <connections>
-                                                    <action selector="asd:" destination="BYZ-38-t0r" eventType="touchUpInside" id="v7L-Lu-Vpe"/>
                                                     <action selector="numberPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="9Xf-wP-bHT"/>
                                                 </connections>
                                             </button>
@@ -71,7 +69,6 @@
                                                     <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                 </state>
                                                 <connections>
-                                                    <action selector="asd:" destination="BYZ-38-t0r" eventType="touchUpInside" id="g9a-Fo-U8O"/>
                                                     <action selector="numberPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="gvN-kZ-JCn"/>
                                                 </connections>
                                             </button>
@@ -83,7 +80,6 @@
                                                     <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                 </state>
                                                 <connections>
-                                                    <action selector="asd:" destination="BYZ-38-t0r" eventType="touchUpInside" id="vnV-OQ-XI3"/>
                                                     <action selector="numberPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="wXy-CX-qEw"/>
                                                 </connections>
                                             </button>
@@ -100,7 +96,6 @@
                                                     <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                 </state>
                                                 <connections>
-                                                    <action selector="asd:" destination="BYZ-38-t0r" eventType="touchUpInside" id="32r-fd-1Oy"/>
                                                     <action selector="numberPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="VLY-P6-U1G"/>
                                                 </connections>
                                             </button>
@@ -112,7 +107,6 @@
                                                     <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                 </state>
                                                 <connections>
-                                                    <action selector="asd:" destination="BYZ-38-t0r" eventType="touchUpInside" id="cdo-he-jVm"/>
                                                     <action selector="numberPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="Dpt-4B-6MT"/>
                                                 </connections>
                                             </button>
@@ -124,7 +118,6 @@
                                                     <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                 </state>
                                                 <connections>
-                                                    <action selector="asd:" destination="BYZ-38-t0r" eventType="touchUpInside" id="XVA-Gc-vO1"/>
                                                     <action selector="numberPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="GdY-UZ-tTC"/>
                                                 </connections>
                                             </button>
@@ -136,7 +129,6 @@
                                                     <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                 </state>
                                                 <connections>
-                                                    <action selector="asd:" destination="BYZ-38-t0r" eventType="touchUpInside" id="lSX-Q0-2AD"/>
                                                     <action selector="numberPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="ST8-GD-m0Y"/>
                                                 </connections>
                                             </button>
@@ -153,7 +145,6 @@
                                                     <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                 </state>
                                                 <connections>
-                                                    <action selector="asd:" destination="BYZ-38-t0r" eventType="touchUpInside" id="dmd-Bx-gQ4"/>
                                                     <action selector="numberPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="EnO-Ro-exR"/>
                                                 </connections>
                                             </button>
@@ -165,7 +156,6 @@
                                                     <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                 </state>
                                                 <connections>
-                                                    <action selector="asd:" destination="BYZ-38-t0r" eventType="touchUpInside" id="yFh-yb-BVW"/>
                                                     <action selector="numberPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="KJc-Yt-y9A"/>
                                                 </connections>
                                             </button>
@@ -177,7 +167,6 @@
                                                     <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                 </state>
                                                 <connections>
-                                                    <action selector="asd:" destination="BYZ-38-t0r" eventType="touchUpInside" id="9qS-a8-C8k"/>
                                                     <action selector="numberPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="BXW-rI-91q"/>
                                                 </connections>
                                             </button>
@@ -189,7 +178,6 @@
                                                     <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                 </state>
                                                 <connections>
-                                                    <action selector="asd:" destination="BYZ-38-t0r" eventType="touchUpInside" id="dIM-kV-LAJ"/>
                                                     <action selector="numberPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="jyS-WT-4Ce"/>
                                                 </connections>
                                             </button>
@@ -206,7 +194,6 @@
                                                     <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                 </state>
                                                 <connections>
-                                                    <action selector="asd:" destination="BYZ-38-t0r" eventType="touchUpInside" id="go8-I5-lry"/>
                                                     <action selector="numberPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="qgf-52-WJM"/>
                                                 </connections>
                                             </button>
@@ -218,7 +205,6 @@
                                                     <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                 </state>
                                                 <connections>
-                                                    <action selector="asd:" destination="BYZ-38-t0r" eventType="touchUpInside" id="U0J-T9-rAd"/>
                                                     <action selector="numberPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="2P8-Xu-pKn"/>
                                                 </connections>
                                             </button>
@@ -230,7 +216,6 @@
                                                     <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                 </state>
                                                 <connections>
-                                                    <action selector="asd:" destination="BYZ-38-t0r" eventType="touchUpInside" id="596-Zy-S7h"/>
                                                     <action selector="numberPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="X1Y-dl-vst"/>
                                                 </connections>
                                             </button>
@@ -242,7 +227,6 @@
                                                     <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                 </state>
                                                 <connections>
-                                                    <action selector="asd:" destination="BYZ-38-t0r" eventType="touchUpInside" id="3U5-qb-kF2"/>
                                                     <action selector="numberPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="S5n-Ex-vCE"/>
                                                 </connections>
                                             </button>
@@ -259,7 +243,6 @@
                                                     <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                 </state>
                                                 <connections>
-                                                    <action selector="asd:" destination="BYZ-38-t0r" eventType="touchUpInside" id="2aX-jG-7DC"/>
                                                     <action selector="numberPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="dXT-Gl-tV8"/>
                                                 </connections>
                                             </button>
@@ -274,7 +257,6 @@
                                                             <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                         </state>
                                                         <connections>
-                                                            <action selector="asd:" destination="BYZ-38-t0r" eventType="touchUpInside" id="d4G-3a-fFI"/>
                                                             <action selector="numberPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="rfD-dX-UVM"/>
                                                         </connections>
                                                     </button>
@@ -286,8 +268,7 @@
                                                             <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                         </state>
                                                         <connections>
-                                                            <action selector="asd:" destination="BYZ-38-t0r" eventType="touchUpInside" id="qvb-qL-QpS"/>
-                                                            <action selector="numberPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="b87-cK-Rut"/>
+                                                            <action selector="numberPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="Ds1-Fl-OYy"/>
                                                         </connections>
                                                     </button>
                                                 </subviews>
@@ -306,6 +287,28 @@
                         </constraints>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                     </view>
+                    <connections>
+                        <outlet property="angka0" destination="8lL-9I-PSh" id="Nle-Ha-bhJ"/>
+                        <outlet property="angka1" destination="nUk-hD-1JK" id="5Oa-Qh-dbC"/>
+                        <outlet property="angka2" destination="jgi-gI-Ct7" id="P5H-DO-XAh"/>
+                        <outlet property="angka3" destination="0o4-X1-aMi" id="w7w-oy-FRA"/>
+                        <outlet property="angka4" destination="Lgq-cT-g0d" id="2fj-Ps-DHF"/>
+                        <outlet property="angka5" destination="F8m-DG-UJR" id="5ZA-UZ-RMt"/>
+                        <outlet property="angka6" destination="AZw-J0-gsh" id="MwE-t5-XP3"/>
+                        <outlet property="angka7" destination="oGj-WX-nZo" id="jWW-ft-Zmp"/>
+                        <outlet property="angka8" destination="K9s-Ww-jn8" id="hOX-Zb-Wrg"/>
+                        <outlet property="angka9" destination="DxJ-cA-Rmf" id="cV5-dN-QCO"/>
+                        <outlet property="labelAC" destination="bUc-IO-YZ0" id="s6c-mk-Ix8"/>
+                        <outlet property="labelBagi" destination="gRK-32-nRG" id="CJK-f9-IvD"/>
+                        <outlet property="labelHasil" destination="IZh-2b-Yyn" id="8x6-3d-SYN"/>
+                        <outlet property="labelKali" destination="JFy-3u-zFG" id="F3f-O7-vEu"/>
+                        <outlet property="labelKurang" destination="rjd-wR-w0r" id="fPa-sW-nIg"/>
+                        <outlet property="labelPersen" destination="Dpw-vY-EBv" id="drT-O2-8Wm"/>
+                        <outlet property="labelPositifNegatif" destination="iCX-jz-4iH" id="57l-iv-ZlD"/>
+                        <outlet property="labelSamaDengan" destination="Mzg-DR-lTS" id="WQr-6w-lUf"/>
+                        <outlet property="labelTambah" destination="Pc0-ze-GLU" id="NTw-wx-4cv"/>
+                        <outlet property="labelTitik" destination="hLc-84-dKj" id="OLy-kO-HqS"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
